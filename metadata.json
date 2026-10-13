@@ -1,0 +1,6 @@
+{
+  "name": "TipidKusina - Budget Family Meal & Grocery Planner",
+  "description": "Smart 1-day meal planner and local grocery budgeter for budget-conscious families, college students, and tight-budget households with zero food waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
